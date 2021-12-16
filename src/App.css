@@ -33,6 +33,18 @@
   
 }
 
+.octocat {
+  max-width: 5%;
+  max-height: 5%;
+  
+}
+
+.lnkin {
+  max-width: 5%;
+  max-height: 5%;
+  
+}
+
 .imgstyling:hover{
   color: purple;
   box-shadow: 0 5px 15px rgba(92, 8, 151, 0.4);

@@ -7,6 +7,7 @@ import Languages from './components/pages/Blog';
 import Contact from './components/pages/Contact';
 import CV from './components/pages/CV';
 import Footer from './components/Footer';
+import Header from './components/Header';
 
 import './App.css';
 
@@ -37,6 +38,7 @@ const handlePageChange = (page) => setCurrentPage(page);
 
 return (
   <div>
+    <Header />
     {/* We are passing the currentPage from state and the function to update it */}
     <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
     {/* Here we are calling the renderPage method which will return a component  */}

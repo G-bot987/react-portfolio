@@ -20,6 +20,66 @@ export default function Projects() {
         <p>a description</p>
         <a className="repolnk"href="https://github.com/G-bot987/TechBlog"> the repo</a>
       </div>
+      
+      <div className="projectbox">
+        <h2>a project</h2>
+        <h3>please click on the image to be taken to the deployed version</h3>
+        <a href="https://dry-eyrie-85153.herokuapp.com/">
+          <img src={techBlogImg} className="imgstyling" alt="techblog img" />
+        </a>
+        <p>a description</p>
+        <a className="repolnk"href="https://github.com/G-bot987/TechBlog"> the repo</a>
+      </div>
+
+      <div className="projectbox">
+        <h2>a project</h2>
+        <h3>please click on the image to be taken to the deployed version</h3>
+        <a href="https://dry-eyrie-85153.herokuapp.com/">
+          <img src={techBlogImg} className="imgstyling" alt="techblog img" />
+        </a>
+        <p>a description</p>
+        <a className="repolnk"href="https://github.com/G-bot987/TechBlog"> the repo</a>
+      </div>
+
+      <div className="projectbox">
+        <h2>a project</h2>
+        <h3>please click on the image to be taken to the deployed version</h3>
+        <a href="https://dry-eyrie-85153.herokuapp.com/">
+          <img src={techBlogImg} className="imgstyling" alt="techblog img" />
+        </a>
+        <p>a description</p>
+        <a className="repolnk"href="https://github.com/G-bot987/TechBlog"> the repo</a>
+      </div>
+
+      <div className="projectbox">
+        <h2>a project</h2>
+        <h3>please click on the image to be taken to the deployed version</h3>
+        <a href="https://dry-eyrie-85153.herokuapp.com/">
+          <img src={techBlogImg} className="imgstyling" alt="techblog img" />
+        </a>
+        <p>a description</p>
+        <a className="repolnk"href="https://github.com/G-bot987/TechBlog"> the repo</a>
+      </div>
+
+      <div className="projectbox">
+        <h2>a project</h2>
+        <h3>please click on the image to be taken to the deployed version</h3>
+        <a href="https://dry-eyrie-85153.herokuapp.com/">
+          <img src={techBlogImg} className="imgstyling" alt="techblog img" />
+        </a>
+        <p>a description</p>
+        <a className="repolnk"href="https://github.com/G-bot987/TechBlog"> the repo</a>
+      </div>
+      
+
+
+
+
+
+
+
     </div>
+
+    
   );
 }
