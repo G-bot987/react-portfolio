@@ -1,19 +1,15 @@
 import React from 'react';
 
+
 export default function Contact() {
   return (
     <div>
       <h1>Contact Page</h1>
       <p>
 
-
-
-"THEN I see a contact form with fields for a name, an email address, and a message
-WHEN I move my cursor out of one of the form fields without entering text
-THEN I receive a notification that this field is required
-WHEN I enter text into the email address field
-THEN I receive a notification if I have entered an invalid email address"
+Please feel free to reach out to me on Linkedin, the icon in the footer will take you to my page. Alternatively please feel free to message me at developergbot987@gmail.com
       </p>
+     
     </div>
   );
 }

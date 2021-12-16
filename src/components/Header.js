@@ -3,9 +3,9 @@ import React from 'react';
 export default function Header() {
   return (
     <div>
-        <p>
-I am Header
-      </p>
+        
+<h1>Georgia Hobson, React Profile</h1>
+    
     </div>
   );
 }

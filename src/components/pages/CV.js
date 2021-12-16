@@ -1,11 +1,82 @@
-import React from 'react';
-
+import React from "react";
+import PDF from "../../img/pdf.png";
+import CVlink from "../../img/cv/CV.pdf";
 export default function CV() {
   return (
     <div>
       <h1>Contact Page</h1>
       <p>
-this is CV
+        <h3>Proficent In:</h3>
+        <div className="HTML">
+        HTML5
+        </div>
+        
+        <div className="div">
+         CSS 
+        </div>
+
+        <div className="JavaScript">
+         JavaScript 
+        </div>
+        
+        <div className="jQuery">
+         jQuery
+
+        </div>
+
+        <div className="Bootstrap">
+          Bootstrap
+
+        </div>
+
+        <div className="Express.js">
+           Express.js
+
+        </div>
+
+        <div className="React.js">
+            React.js
+
+        </div>
+
+        <div className="Node.js ">
+        Node.js 
+
+        </div>
+
+        <div className="Database Theory">
+        Database Theory
+
+        </div>
+
+        <div className="MongoDB">
+
+         MongoDB 
+        </div>
+
+        <div className="MySQL">
+         MySQL 
+
+        </div>
+
+        <div className="Command Line">
+
+         Command Line
+        </div>
+
+        <div className="Java">
+          Java
+
+        </div>
+
+        <div className="Git.">
+           Git.
+        </div>
+         
+         Please click on the logo to view my CV
+        <a href={CVlink}>
+          <img src={PDF} className="lnkin" alt="my linked in img" />
+        </a>
       </p>
     </div>
   );

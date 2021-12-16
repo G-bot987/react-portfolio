@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 import NavTabs from './components/NavTabs';
 import Home from './components/pages/Home';
 import Projects from './components/pages/Project';
-import Languages from './components/pages/Blog';
 import Contact from './components/pages/Contact';
 import CV from './components/pages/CV';
 import Footer from './components/Footer';
@@ -24,9 +23,6 @@ const renderPage = () => {
   }
   if (currentPage === 'Projects') {
     return <Projects />;
-  }
-  if (currentPage === 'Languages') {
-    return <Languages />;
   }
   if (currentPage === 'CV') {
     return <CV />;
