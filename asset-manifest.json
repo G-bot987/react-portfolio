@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio/static/js/main.6ae83c44.js",
+    "main.css": "/react-portfolio/static/css/main.8670d05f.css",
+    "main.js": "/react-portfolio/static/js/main.915ef409.js",
+    "static/media/Octocat.png": "/react-portfolio/static/media/Octocat.363cb5edea582a89c41f.png",
+    "static/media/employeemanager.png": "/react-portfolio/static/media/employeemanager.69dd217d16cf565072a1.png",
+    "static/media/inquisitive.png": "/react-portfolio/static/media/inquisitive.862e8edc9e0f236e1bd2.png",
+    "static/media/screenshottechblog.png": "/react-portfolio/static/media/screenshottechblog.30a9b8f8bdf1ab0f8210.png",
+    "static/media/5starlocal.png": "/react-portfolio/static/media/5starlocal.69cbb1649542a7c76fc5.png",
+    "static/media/passwordgenerator.PNG": "/react-portfolio/static/media/passwordgenerator.3836c45c54bde6415972.PNG",
+    "static/media/CV.pdf": "/react-portfolio/static/media/CV.2847f7ce0cbd2068cac2.pdf",
+    "static/media/weatherdashboard.png": "/react-portfolio/static/media/weatherdashboard.40c05b6bd5a2558bc2d8.png",
     "index.html": "/react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.6ae83c44.js.map": "/react-portfolio/static/js/main.6ae83c44.js.map"
+    "main.8670d05f.css.map": "/react-portfolio/static/css/main.8670d05f.css.map",
+    "main.915ef409.js.map": "/react-portfolio/static/js/main.915ef409.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6ae83c44.js"
+    "static/css/main.8670d05f.css",
+    "static/js/main.915ef409.js"
   ]
 }
